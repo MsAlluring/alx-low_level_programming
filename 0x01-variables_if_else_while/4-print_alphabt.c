@@ -9,7 +9,7 @@
 int main(void)
 
 {
-	char let, q, e
+	char let, e, q;
 	
 	e = 'e';
 	q = 'q';
