@@ -15,7 +15,7 @@ int main(void)
 	char low;
 
         for (a = '0'; a <= '16'; a++)
-        putchar(d);
+        putchar(a);
 
         for (low = 'a'; low <= 'f'; low++)
 	putchar(low);
